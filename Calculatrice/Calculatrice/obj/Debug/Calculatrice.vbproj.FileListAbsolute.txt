@@ -1,0 +1,10 @@
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+E:\ICS20\Ralph Tchinda\Chapitre 1\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
